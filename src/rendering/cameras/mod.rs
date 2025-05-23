@@ -1,3 +1,2 @@
-mod input;
-mod player;
-mod showcase;
+pub mod player_camera;
+pub mod showcase;

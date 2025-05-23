@@ -1,1 +1,1 @@
-mod cameras;
+pub mod cameras;
